@@ -1,7 +1,5 @@
 # 이강훈(Kanghoon Lee)
-
-* 이메일 : rekanghoon@gmail.com
-* [포트폴리오(노션링크)](https://www.notion.so/kanghoonyonsei/Adventurer-39623e58c9084a378cf2b36ab182abf8)
+데이터와 인공지능에 관심이 많습니다.
 
 ## 전공 및 공부 분야
 
